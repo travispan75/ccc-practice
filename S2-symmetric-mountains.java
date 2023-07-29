@@ -1,3 +1,5 @@
+// https://dmoj.ca/problem/ccc23s2
+
 import java.util.Scanner;
 import java.lang.Math;
 
